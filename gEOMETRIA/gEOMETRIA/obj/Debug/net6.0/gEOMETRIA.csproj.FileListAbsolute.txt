@@ -1,0 +1,15 @@
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\bin\Debug\net6.0\gEOMETRIA.exe
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\bin\Debug\net6.0\gEOMETRIA.deps.json
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\bin\Debug\net6.0\gEOMETRIA.runtimeconfig.json
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\bin\Debug\net6.0\gEOMETRIA.dll
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\bin\Debug\net6.0\gEOMETRIA.pdb
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\obj\Debug\net6.0\gEOMETRIA.csproj.AssemblyReference.cache
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\obj\Debug\net6.0\gEOMETRIA.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\obj\Debug\net6.0\gEOMETRIA.AssemblyInfoInputs.cache
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\obj\Debug\net6.0\gEOMETRIA.AssemblyInfo.cs
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\obj\Debug\net6.0\gEOMETRIA.csproj.CoreCompileInputs.cache
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\obj\Debug\net6.0\gEOMETRIA.dll
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\obj\Debug\net6.0\refint\gEOMETRIA.dll
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\obj\Debug\net6.0\gEOMETRIA.pdb
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\obj\Debug\net6.0\gEOMETRIA.genruntimeconfig.cache
+D:\ИСП.22А\Смирнов и Федяева\gEOMETRIA\gEOMETRIA\obj\Debug\net6.0\ref\gEOMETRIA.dll
